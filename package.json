@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ng-bootstrap/ng-bootstrap#readme",
   "dependencies": {
-    "@angular/core": "2.0.0",
+    "@angular/core": "11.0.5",
     "@angular/common": "2.0.0",
     "@angular/forms": "2.0.0"
   },
